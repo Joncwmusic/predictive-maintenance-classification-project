@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef47e2e2-4c4e-4509-9562-23330211460a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/predictiveMaintenancePortfolioProjectSimple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef47e2e2-4c4e-4509-9562-23330211460a" name="Changes" comment="Added oversampling functions and visualizations for various test/train comparison to observe overfitting tendencies. f1_score using DecisionTree Classificatin is sitting around 0.7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714194724792</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added oversampling functions and visualizations for various test/train comparison to observe overfitting tendencies. f1_score using DecisionTree Classificatin is sitting around 0.7">
+      <option name="closed" value="true" />
+      <created>1715818671607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715818671608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added oversampling functions and visualizations for various test/train comparison to observe overfitting tendencies. f1_score using DecisionTree Classificatin is sitting around 0.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added oversampling functions and visualizations for various test/train comparison to observe overfitting tendencies. f1_score using DecisionTree Classificatin is sitting around 0.7" />
   </component>
 </project>
